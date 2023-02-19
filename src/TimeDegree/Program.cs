@@ -1,5 +1,5 @@
-﻿using TimeDegree.Core;
-using TimeDegreeCalculation;
+using TimeDegree.Core;
+using TimeDegree;
 
 Console.WriteLine("Enter hours: ");
 var minutes = int.Parse(Console.ReadLine());
